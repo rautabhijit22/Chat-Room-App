@@ -1,0 +1,3 @@
+to connect with serevr -->  /server1
+to send message --> /ap/message
+to subscribe so that we can receive msg --> /topic/return-to
